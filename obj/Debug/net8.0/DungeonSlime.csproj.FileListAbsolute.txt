@@ -41,3 +41,4 @@ c:\Projects\game-dev\DungeonSlime\bin\Debug\net8.0\Content\audio\collect.xnb
 c:\Projects\game-dev\DungeonSlime\bin\Debug\net8.0\Content\audio\theme.ogg
 c:\Projects\game-dev\DungeonSlime\bin\Debug\net8.0\Content\audio\theme.xnb
 c:\Projects\game-dev\DungeonSlime\bin\Debug\net8.0\Content\fonts\04B_30.xnb
+c:\Projects\game-dev\DungeonSlime\bin\Debug\net8.0\Content\fonts\04B_30_5x.xnb

@@ -7,11 +7,13 @@
     <File>c:/Projects/game-dev/DungeonSlime/Content/audio/bounce.wav</File>
     <File>c:/Projects/game-dev/DungeonSlime/Content/audio/collect.wav</File>
     <File>c:/Projects/game-dev/DungeonSlime/Content/audio/theme.ogg</File>
+    <File>c:/Projects/game-dev/DungeonSlime/Content/fonts/04B_30_5x.spritefont</File>
     <File>c:/Projects/game-dev/DungeonSlime/Content/fonts/04B_30.spritefont</File>
     <File>c:/Projects/game-dev/DungeonSlime/Content/images/atlas.png</File>
     <File>c:/Projects/game-dev/DungeonSlime/Content/images/logo.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
