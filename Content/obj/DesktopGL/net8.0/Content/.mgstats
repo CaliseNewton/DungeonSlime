@@ -1,4 +1,5 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"c:/Projects/game-dev/DungeonSlime/Content/images/atlas-definition.xml","c:\Projects\game-dev\DungeonSlime\Content\bin\DesktopGL\Content\images/atlas-definition.xml","CopyItem","File",916,916,0.0012284
-"c:/Projects/game-dev/DungeonSlime/Content/images/atlas.png","c:/Projects/game-dev/DungeonSlime/Content/bin/DesktopGL/Content/images/atlas.xnb","TextureProcessor","Texture2DContent",590,16469,0.103797
-"c:/Projects/game-dev/DungeonSlime/Content/images/logo.png","c:/Projects/game-dev/DungeonSlime/Content/bin/DesktopGL/Content/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.117082
+"c:/Projects/game-dev/DungeonSlime/Content/images/atlas-definition.xml","c:\Projects\game-dev\DungeonSlime\Content\bin\DesktopGL\Content\images/atlas-definition.xml","CopyItem","File",916,916,0.0016601
+"c:/Projects/game-dev/DungeonSlime/Content/images/atlas.png","c:/Projects/game-dev/DungeonSlime/Content/bin/DesktopGL/Content/images/atlas.xnb","TextureProcessor","Texture2DContent",1844,65621,0.1055413
+"c:/Projects/game-dev/DungeonSlime/Content/images/logo.png","c:/Projects/game-dev/DungeonSlime/Content/bin/DesktopGL/Content/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.0236167
+"c:/Projects/game-dev/DungeonSlime/Content/images/tilemap-definition.xml","c:\Projects\game-dev\DungeonSlime\Content\bin\DesktopGL\Content\images/tilemap-definition.xml","CopyItem","File",694,694,0.0013693
