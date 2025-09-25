@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DungeonSlime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61ff332f965793aa854ad9a6f24ca2706a3e8f4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51f66ea5c68e9b9de550bbbd461ca857a891f06c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DungeonSlime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DungeonSlime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
