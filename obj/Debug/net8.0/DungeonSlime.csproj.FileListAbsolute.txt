@@ -36,3 +36,7 @@ c:\Projects\game-dev\DungeonSlime\bin\Debug\net8.0\Content\images\atlas.xnb
 c:\Projects\game-dev\DungeonSlime\bin\Debug\net8.0\Content\images\atlas-definition.xml
 c:\Projects\game-dev\DungeonSlime\obj\Debug\net8.0\DungeonSlime.sourcelink.json
 c:\Projects\game-dev\DungeonSlime\bin\Debug\net8.0\Content\images\tilemap-definition.xml
+c:\Projects\game-dev\DungeonSlime\bin\Debug\net8.0\Content\audio\bounce.xnb
+c:\Projects\game-dev\DungeonSlime\bin\Debug\net8.0\Content\audio\collect.xnb
+c:\Projects\game-dev\DungeonSlime\bin\Debug\net8.0\Content\audio\theme.ogg
+c:\Projects\game-dev\DungeonSlime\bin\Debug\net8.0\Content\audio\theme.xnb
