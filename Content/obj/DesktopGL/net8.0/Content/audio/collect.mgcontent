@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>c:/Projects/game-dev/DungeonSlime/Content/audio/collect.wav</SourceFile>
-  <SourceTime>2025-09-25T11:02:12.3179357-04:00</SourceTime>
-  <DestFile>c:/Projects/game-dev/DungeonSlime/Content/bin/DesktopGL/Content/audio/collect.xnb</DestFile>
-  <DestTime>2025-09-25T11:09:07.5238524-04:00</DestTime>
+  <SourceFile>c:/Projects/DungeonSlime/Content/audio/collect.wav</SourceFile>
+  <SourceTime>2025-11-12T12:40:04.0016338+10:00</SourceTime>
+  <DestFile>c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/audio/collect.xnb</DestFile>
+  <DestTime>2025-11-12T12:44:09.674123+10:00</DestTime>
   <Importer>WavImporter</Importer>
-  <ImporterTime>2025-06-02T06:31:02-04:00</ImporterTime>
+  <ImporterTime>2025-06-02T20:31:02+10:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>
-  <ProcessorTime>2025-06-02T06:31:02-04:00</ProcessorTime>
+  <ProcessorTime>2025-06-02T20:31:02+10:00</ProcessorTime>
   <Parameters>
     <Key>Quality</Key>
     <Value>Best</Value>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>c:/Projects/game-dev/DungeonSlime/Content/images/logo.png</SourceFile>
-  <SourceTime>2025-09-18T10:50:18.103863-04:00</SourceTime>
-  <DestFile>c:/Projects/game-dev/DungeonSlime/Content/bin/DesktopGL/Content/images/logo.xnb</DestFile>
-  <DestTime>2025-09-18T15:45:21.5835701-04:00</DestTime>
+  <SourceFile>c:/Projects/DungeonSlime/Content/images/logo.png</SourceFile>
+  <SourceTime>2025-11-12T12:40:04.0269485+10:00</SourceTime>
+  <DestFile>c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/images/logo.xnb</DestFile>
+  <DestTime>2025-11-12T12:44:10.2922695+10:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2025-06-02T06:31:02-04:00</ImporterTime>
+  <ImporterTime>2025-06-02T20:31:02+10:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2025-06-02T06:31:02-04:00</ProcessorTime>
+  <ProcessorTime>2025-06-02T20:31:02+10:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>

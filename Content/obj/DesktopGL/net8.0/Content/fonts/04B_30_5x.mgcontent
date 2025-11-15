@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>c:/Projects/game-dev/DungeonSlime/Content/fonts/04B_30_5x.spritefont</SourceFile>
-  <SourceTime>2025-09-25T19:22:32.1208813-04:00</SourceTime>
-  <DestFile>c:/Projects/game-dev/DungeonSlime/Content/bin/DesktopGL/Content/fonts/04B_30_5x.xnb</DestFile>
-  <DestTime>2025-09-25T19:29:00.1197527-04:00</DestTime>
+  <SourceFile>c:/Projects/DungeonSlime/Content/fonts/04B_30_5x.spritefont</SourceFile>
+  <SourceTime>2025-11-12T12:40:04.0259518+10:00</SourceTime>
+  <DestFile>c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/fonts/04B_30_5x.xnb</DestFile>
+  <DestTime>2025-11-12T12:44:10.2242531+10:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
-  <ImporterTime>2025-06-02T06:31:02-04:00</ImporterTime>
+  <ImporterTime>2025-06-02T20:31:02+10:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>
-  <ProcessorTime>2025-06-02T06:31:02-04:00</ProcessorTime>
+  <ProcessorTime>2025-06-02T20:31:02+10:00</ProcessorTime>
   <Parameters>
     <Key>PremultiplyAlpha</Key>
     <Value>True</Value>
