@@ -89,3 +89,9 @@ c:\Projects\DungeonSlime\obj\Debug\net8.0\DungeonS.106F46AA.Up2Date
 c:\Projects\DungeonSlime\obj\Debug\net8.0\DungeonSlime.genruntimeconfig.cache
 c:\Projects\DungeonSlime\obj\Debug\net8.0\ref\DungeonSlime.dll
 c:\Projects\DungeonSlime\bin\Debug\net8.0\Content\images\background-pattern.xnb
+c:\Projects\DungeonSlime\bin\Debug\net8.0\Content\audio\ui.xnb
+c:\Projects\DungeonSlime\bin\Debug\net8.0\GumCommon.dll
+c:\Projects\DungeonSlime\bin\Debug\net8.0\FlatRedBall.InterpolationCore.dll
+c:\Projects\DungeonSlime\bin\Debug\net8.0\MonoGameGum.dll
+c:\Projects\DungeonSlime\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Projects\DungeonSlime\bin\Debug\net8.0\TextCopy.dll

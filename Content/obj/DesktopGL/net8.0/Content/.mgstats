@@ -2,6 +2,7 @@ Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Siz
 "c:/Projects/DungeonSlime/Content/audio/bounce.wav","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/audio/bounce.xnb","SoundEffectProcessor","SoundEffectContent",50664,50725,0.5652639
 "c:/Projects/DungeonSlime/Content/audio/collect.wav","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/audio/collect.xnb","SoundEffectProcessor","SoundEffectContent",22092,22153,0.0919287
 "c:/Projects/DungeonSlime/Content/audio/theme.ogg","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/audio/theme.xnb","SongProcessor","SongContent",1079706,123,0.4015622
+"c:/Projects/DungeonSlime/Content/audio/ui.wav","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/audio/ui.xnb","SoundEffectProcessor","SoundEffectContent",2032,2093,0.5017208
 "c:/Projects/DungeonSlime/Content/fonts/04B_30_5x.spritefont","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/fonts/04B_30_5x.xnb","FontDescriptionProcessor","SpriteFontContent",500,1053722,0.133849
 "c:/Projects/DungeonSlime/Content/fonts/04B_30.spritefont","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/fonts/04B_30.xnb","FontDescriptionProcessor","SpriteFontContent",500,70682,0.016347
 "c:/Projects/DungeonSlime/Content/images/atlas-definition.xml","c:\Projects\DungeonSlime\Content\bin\DesktopGL\Content\images/atlas-definition.xml","CopyItem","File",916,916,0.0011809
