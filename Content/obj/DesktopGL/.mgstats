@@ -1,4 +1,15 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"c:/Projects/game-dev/DungeonSlime/Content/images/atlas.png","c:/Projects/game-dev/DungeonSlime/Content/bin/DesktopGL/images/atlas.xnb","TextureProcessor","Texture2DContent",590,16469,0.0774834
-"c:/Projects/game-dev/DungeonSlime/Content/images/File.xml","c:\Projects\game-dev\DungeonSlime\Content\bin\DesktopGL\images/atlas-definition.xml","CopyItem","File",144,144,0.0011093
-"c:/Projects/game-dev/DungeonSlime/Content/images/logo.png","c:/Projects/game-dev/DungeonSlime/Content/bin/DesktopGL/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.0128348
+"c:/Projects/DungeonSlime/Content/audio/bounce.wav","c:/Projects/DungeonSlime/Content/bin/DesktopGL/audio/bounce.xnb","SoundEffectProcessor","SoundEffectContent",50664,50725,0.1219548
+"c:/Projects/DungeonSlime/Content/audio/collect.wav","c:/Projects/DungeonSlime/Content/bin/DesktopGL/audio/collect.xnb","SoundEffectProcessor","SoundEffectContent",22092,22153,0.0615639
+"c:/Projects/DungeonSlime/Content/audio/theme.ogg","c:/Projects/DungeonSlime/Content/bin/DesktopGL/audio/theme.xnb","SongProcessor","SongContent",1079706,123,0.3667144
+"c:/Projects/DungeonSlime/Content/audio/ui.wav","c:/Projects/DungeonSlime/Content/bin/DesktopGL/audio/ui.xnb","SoundEffectProcessor","SoundEffectContent",2032,2093,0.0495365
+"c:/Projects/DungeonSlime/Content/effects/grayscaleEffect.fx","c:/Projects/DungeonSlime/Content/bin/DesktopGL/effects/grayscaleEffect.xnb","EffectProcessor","CompiledEffectContent",692,596,0.1978848
+"c:/Projects/DungeonSlime/Content/effects/normalEffect.fx","c:/Projects/DungeonSlime/Content/bin/DesktopGL/effects/normalEffect.xnb","EffectProcessor","CompiledEffectContent",888,1293,0.1417865
+"c:/Projects/DungeonSlime/Content/fonts/04B_30_5x.spritefont","c:/Projects/DungeonSlime/Content/bin/DesktopGL/fonts/04B_30_5x.xnb","FontDescriptionProcessor","SpriteFontContent",500,1053722,0.1186952
+"c:/Projects/DungeonSlime/Content/fonts/04b_30.fnt","c:\Projects\DungeonSlime\Content\bin\DesktopGL\fonts/04b_30.fnt","CopyItem","File",11127,11127,0.0018466
+"c:/Projects/DungeonSlime/Content/fonts/04B_30.spritefont","c:/Projects/DungeonSlime/Content/bin/DesktopGL/fonts/04B_30.xnb","FontDescriptionProcessor","SpriteFontContent",500,70682,0.0095933
+"c:/Projects/DungeonSlime/Content/images/atlas-definition.xml","c:\Projects\DungeonSlime\Content\bin\DesktopGL\images/atlas-definition.xml","CopyItem","File",1700,1700,0.0004845
+"c:/Projects/DungeonSlime/Content/images/atlas.png","c:/Projects/DungeonSlime/Content/bin/DesktopGL/images/atlas.xnb","TextureProcessor","Texture2DContent",8634,1048661,0.027945
+"c:/Projects/DungeonSlime/Content/images/background-pattern.png","c:/Projects/DungeonSlime/Content/bin/DesktopGL/images/background-pattern.xnb","TextureProcessor","Texture2DContent",1056,107669,0.0027654
+"c:/Projects/DungeonSlime/Content/images/logo.png","c:/Projects/DungeonSlime/Content/bin/DesktopGL/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.0084685
+"c:/Projects/DungeonSlime/Content/images/tilemap-definition.xml","c:\Projects\DungeonSlime\Content\bin\DesktopGL\images/tilemap-definition.xml","CopyItem","File",695,695,0.0004233

@@ -8,6 +8,7 @@
     <File>c:/Projects/DungeonSlime/Content/audio/collect.wav</File>
     <File>c:/Projects/DungeonSlime/Content/audio/theme.ogg</File>
     <File>c:/Projects/DungeonSlime/Content/audio/ui.wav</File>
+    <File>c:/Projects/DungeonSlime/Content/effects/grayscaleEffect.fx</File>
     <File>c:/Projects/DungeonSlime/Content/fonts/04B_30_5x.spritefont</File>
     <File>c:/Projects/DungeonSlime/Content/fonts/04B_30.spritefont</File>
     <File>c:/Projects/DungeonSlime/Content/images/atlas.png</File>
@@ -15,6 +16,7 @@
     <File>c:/Projects/DungeonSlime/Content/images/logo.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
