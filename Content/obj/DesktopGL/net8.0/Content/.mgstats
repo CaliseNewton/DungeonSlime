@@ -4,9 +4,10 @@ Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Siz
 "c:/Projects/DungeonSlime/Content/audio/theme.ogg","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/audio/theme.xnb","SongProcessor","SongContent",1079706,123,0.4015622
 "c:/Projects/DungeonSlime/Content/audio/ui.wav","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/audio/ui.xnb","SoundEffectProcessor","SoundEffectContent",2032,2093,0.5017208
 "c:/Projects/DungeonSlime/Content/fonts/04B_30_5x.spritefont","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/fonts/04B_30_5x.xnb","FontDescriptionProcessor","SpriteFontContent",500,1053722,0.133849
+"c:/Projects/DungeonSlime/Content/fonts/04b_30.fnt","c:\Projects\DungeonSlime\Content\bin\DesktopGL\Content\fonts/04b_30.fnt","CopyItem","File",11127,11127,0.0017438
 "c:/Projects/DungeonSlime/Content/fonts/04B_30.spritefont","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/fonts/04B_30.xnb","FontDescriptionProcessor","SpriteFontContent",500,70682,0.016347
-"c:/Projects/DungeonSlime/Content/images/atlas-definition.xml","c:\Projects\DungeonSlime\Content\bin\DesktopGL\Content\images/atlas-definition.xml","CopyItem","File",916,916,0.0011809
-"c:/Projects/DungeonSlime/Content/images/atlas.png","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/images/atlas.xnb","TextureProcessor","Texture2DContent",1844,65621,0.0154803
+"c:/Projects/DungeonSlime/Content/images/atlas-definition.xml","c:\Projects\DungeonSlime\Content\bin\DesktopGL\Content\images/atlas-definition.xml","CopyItem","File",1700,1700,0.000846
+"c:/Projects/DungeonSlime/Content/images/atlas.png","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/images/atlas.xnb","TextureProcessor","Texture2DContent",8634,1048661,0.0808255
 "c:/Projects/DungeonSlime/Content/images/background-pattern.png","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/images/background-pattern.xnb","TextureProcessor","Texture2DContent",1056,107669,0.0757304
 "c:/Projects/DungeonSlime/Content/images/logo.png","c:/Projects/DungeonSlime/Content/bin/DesktopGL/Content/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.0112369
-"c:/Projects/DungeonSlime/Content/images/tilemap-definition.xml","c:\Projects\DungeonSlime\Content\bin\DesktopGL\Content\images/tilemap-definition.xml","CopyItem","File",694,694,0.0004506
+"c:/Projects/DungeonSlime/Content/images/tilemap-definition.xml","c:\Projects\DungeonSlime\Content\bin\DesktopGL\Content\images/tilemap-definition.xml","CopyItem","File",695,695,0.0004475

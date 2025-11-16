@@ -667,11 +667,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\DungeonSlime\\DungeonSlime.csproj",
+      "projectUniqueName": "c:\\Projects\\DungeonSlime\\DungeonSlime.csproj",
       "projectName": "DungeonSlime",
-      "projectPath": "C:\\Projects\\DungeonSlime\\DungeonSlime.csproj",
+      "projectPath": "c:\\Projects\\DungeonSlime\\DungeonSlime.csproj",
       "packagesPath": "C:\\Users\\Calise\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\DungeonSlime\\obj\\",
+      "outputPath": "c:\\Projects\\DungeonSlime\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Calise\\AppData\\Roaming\\NuGet\\NuGet.Config"
