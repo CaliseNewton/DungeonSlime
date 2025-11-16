@@ -17,7 +17,6 @@ public class TitleScene : Scene
 {
     private const string DUNGEON_TEXT = "Dungeon";
     private const string SLIME_TEXT = "Slime";
-    private const string PRESS_ENTER_TEXT = "Press Enter To Start";
 
     // The font to use to render normal text.
     private SpriteFont _font;
@@ -37,12 +36,6 @@ public class TitleScene : Scene
     // The origin to set for the slime text.
     private Vector2 _slimeTextOrigin;
 
-    // The position to draw the press enter text at.
-    private Vector2 _pressEnterPos;
-
-    // The origin to set for the press enter text when drawing it.
-    private Vector2 _pressEnterOrigin;
-
     // The texture used for the background pattern.
     private Texture2D _backgroundPattern;
 
@@ -58,6 +51,8 @@ public class TitleScene : Scene
     private SoundEffect _uiSoundEffect;
     private Panel _titleScreenButtonsPanel;
     private Panel _optionsPanel;
+    // The start button used to start the.
+    private AnimatedButton _startButton;
 
     // The options button used to open the options menu.
     private AnimatedButton _optionsButton;
@@ -87,11 +82,6 @@ public class TitleScene : Scene
         size = _font5x.MeasureString(SLIME_TEXT);
         _slimeTextPos = new Vector2(757, 207);
         _slimeTextOrigin = size * 0.5f;
-
-        // Set the position and origin for the press enter text.
-        size = _font.MeasureString(PRESS_ENTER_TEXT);
-        _pressEnterPos = new Vector2(640, 620);
-        _pressEnterOrigin = size * 0.5f;
 
         // Initialize the offset of the background pattern at zero.
         _backgroundOffset = Vector2.Zero;
@@ -123,10 +113,17 @@ public class TitleScene : Scene
 
     public override void Update(GameTime gameTime)
     {
-        // If the user presses enter, switch to the game scene.
+        // If the user presses enter, switch to the focused scene / panel.
         if (Core.Input.Keyboard.WasKeyJustPressed(Keys.Enter))
         {
-            Core.ChangeScene(new GameScene());
+            if (_startButton.IsFocused)
+            {
+                HandleStartClicked(this, EventArgs.Empty);
+            }
+            if (_optionsButton.IsFocused)
+            {
+                HandleOptionsClicked(this, EventArgs.Empty);
+            }
         }
 
         // Update the offsets for the background pattern wrapping so that it
@@ -188,14 +185,14 @@ public class TitleScene : Scene
         _titleScreenButtonsPanel.Dock(Gum.Wireframe.Dock.Fill);
         _titleScreenButtonsPanel.AddToRoot();
 
-        AnimatedButton startButton = new AnimatedButton(_atlas);
-        startButton.Anchor(Gum.Wireframe.Anchor.BottomLeft);
-        startButton.Visual.X = 50;
-        startButton.Visual.Y = -12;
-        startButton.Visual.Width = 70;
-        startButton.Text = "Start";
-        startButton.Click += HandleStartClicked;
-        _titleScreenButtonsPanel.AddChild(startButton);
+        _startButton = new AnimatedButton(_atlas);
+        _startButton.Anchor(Gum.Wireframe.Anchor.BottomLeft);
+        _startButton.Visual.X = 50;
+        _startButton.Visual.Y = -12;
+        _startButton.Visual.Width = 70;
+        _startButton.Text = "Start";
+        _startButton.Click += HandleStartClicked;
+        _titleScreenButtonsPanel.AddChild(_startButton);
 
         _optionsButton = new AnimatedButton(_atlas);
         _optionsButton.Anchor(Gum.Wireframe.Anchor.BottomRight);
@@ -206,7 +203,7 @@ public class TitleScene : Scene
         _optionsButton.Click += HandleOptionsClicked;
         _titleScreenButtonsPanel.AddChild(_optionsButton);
 
-        startButton.IsFocused = true;
+        _startButton.IsFocused = true;
     }
 
     private void HandleStartClicked(object sender, EventArgs e)
@@ -284,6 +281,14 @@ public class TitleScene : Scene
         _optionsBackButton.Y = -10f;
         _optionsBackButton.Click += HandleOptionsButtonBack;
         _optionsPanel.AddChild(_optionsBackButton);
+
+        if (Core.Input.Keyboard.WasKeyJustPressed(Keys.Enter))
+        {
+            if (_optionsBackButton.IsFocused)
+            {
+                HandleOptionsButtonBack(this, EventArgs.Empty);
+            }
+        }
     }
 
     private void HandleSfxSliderChanged(object sender, EventArgs args)
